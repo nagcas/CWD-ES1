@@ -1,0 +1,84 @@
+/* 
+    Style css 
+    Author: Gianluca Chiaravalloti
+    data: 23.01.2024
+    rev.: 1.0.0
+*/
+
+body {
+    margin: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#header {
+    margin: 0 auto;
+}
+
+.logo {
+    text-align: center;
+    margin: 20px 20px;
+}
+
+.titolo {
+    background-color: #fdfbf1;
+    text-align: center;
+    border-top: 1px solid #ffd877;
+    padding: 20px;
+    color: #0d6d6b;
+}
+
+span {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+img {
+    width: 200px; 
+}
+
+a {
+    color: #0d6d6b;
+}
+
+#main {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.sezione_1, h1 {
+    align-content: center;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #c4f3f2;
+}
+
+h4 {
+    color: #b5460f;
+    margin: 0;
+}
+
+.focaccia {
+    margin: 0 auto;
+    width: 700px;
+    border-radius: 10px; 
+}
+
+figcaption {
+    color: #999999;
+    font-size: 0.8em;
+    padding: 20px;
+}
+
+.sezione_2 {
+    border-left: 1px solid #ffd877;
+    padding-left: 10px;
+}
+
+#footer {
+    width: 700px;
+    margin: 0 auto;
+}
